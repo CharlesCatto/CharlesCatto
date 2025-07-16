@@ -1,6 +1,8 @@
 # 🎨 Portfolio de Projets Web
 
 Bienvenue sur mon portfolio GitHub ! Vous trouverez ici une sélection de mes projets réalisés en développement web, allant du quiz interactif à la carte interactive, en passant par des expériences immersives et ludiques. 🚀
+N'hésitez pas à consulter mon Linktree, vous y trouverez tous les liens nécessaires pour en savoir plus !
+https://charlescatto.github.io/Linktree/
 
 ---
 
@@ -46,11 +48,24 @@ Bienvenue sur mon portfolio GitHub ! Vous trouverez ici une sélection de mes pr
 ### 4. 🎄 Sandra's Market
 > Explorez les plus beaux marchés de Noël du monde !
 
-- **Lien du projet** : [Voir le projet](https://projectExample.com)
 - **Description** :
   - Découvrez des marchés de Noël à travers une carte interactive.
   - Plongez dans la magie des traditions locales.
   - Trouvez des cadeaux uniques et laissez-vous porter par l’esprit de Noël !
+
+### 5. 🍹 Cocktail Finder
+> Trouvez le cocktail parfait avec une interface néon années 80  
+
+- **Lien du projet** : (https://github.com/CharlesCatto/CocktailFinder/tree/main)
+- **Description** :
+    - Recherche de cocktails par nom ou ingrédient
+    - Interface néon avec animations lumineuses
+    - Design responsive adapté à tous les écrans
+    - Système d'authentification sécurisé (JWT)
+    - Gestion des favoris utilisateur
+  
+> [Voir en production](https://cocktail-finder-ajq5.vercel.app/) 
+
 
 ---
 
